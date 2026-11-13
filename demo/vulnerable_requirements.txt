@@ -2,4 +2,4 @@
 # Old versions with known high/critical CVEs; dependency review should fail.
 flask==0.12.2
 requests==2.19.0
-pyyaml==5.3
+pyyaml==6.0.3
