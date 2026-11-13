@@ -1,5 +1,5 @@
 # DEMO ONLY: replace requirements.txt content with this on a test branch.
 # Old versions with known high/critical CVEs; dependency review should fail.
 flask==0.12.2
-requests==2.19.0
+requests==2.34.2
 pyyaml==5.3
